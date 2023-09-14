@@ -1,2 +1,3 @@
 # Milling.Knowledge
-## Math, History: [No. 1 - Cutting Keyways - 1941](https://youtu.be/VyWCZ24nZjw)
+## Math.Geometry, History:
+- [No. 1 - Cutting Keyways - 1941](https://youtu.be/VyWCZ24nZjw)
